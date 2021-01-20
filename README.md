@@ -1,1 +1,1 @@
-# https://heesoo10.github.io/
+# heesoo10.github.io
